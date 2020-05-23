@@ -1,16 +1,16 @@
 {
-    "platform": "Playstation",
+    "platform": "Pc",
     "account": {
       "deviceID": "",
       "accountID": "",
       "secret": ""
     },
     "cosmetics": {
-      "skin": "Skull Trooper",
-      "backpack": "",
-      "emote": "Floss",
+      "skin": "pinkghoul",
+      "backpack": "six string",
+      "emote": "poki",
       "emoji": "",
-      "pickaxe": "",
+      "pickaxe": "star wand",
       "pet": ""
     },
     "cosmetics_variants": {
